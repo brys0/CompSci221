@@ -1,0 +1,24 @@
++----------+-----------------------------------+------------+
+|Country_ID|Top_Game                           |Player_Count|
++----------+-----------------------------------+------------+
+|US        |Home Alone (NES)                   |92          |
+|JP        |Animal Crossing: City Folk         |28          |
+|DE        |Terranigma                         |16          |
+|RU        |Battletoads (NES)                  |16          |
+|FR        |Kuru Kuru Kururin                  |14          |
+|CA        |Home Alone (NES)                   |12          |
+|BR        |Bomberman 64                       |11          |
+|FI        |Biker Mice from Mars (2006)        |9           |
+|ES        |Barbie in The 12 Dancing Princesses|9           |
+|AU        |40 Winks                           |8           |
+|IT        |Affari tuoi (DS)                   |7           |
+|SE        |Batman: The Video Game (NES)       |7           |
+|NL        |Kwirk                              |6           |
+|CN        |Adventure Island 3                 |6           |
+|PE        |Iron Man X-O Manowar in Heavy Metal|5           |
+|UA        |Chip 'n Dale Rescue Rangers 2      |4           |
+|ID        |Sengoku Basara 2: Heroes           |4           |
+|BO        |Bust a Groove 2                    |4           |
+|CL        |Tumblepop                          |4           |
+|GB        |Klonoa: Door to Phantomile         |4           |
++----------+-----------------------------------+------------+

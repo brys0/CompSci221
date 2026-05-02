@@ -5,6 +5,10 @@ node_modules
 out
 dist
 *.tgz
+seeds/*
+
+# hide cache
+cache
 
 # code coverage
 coverage

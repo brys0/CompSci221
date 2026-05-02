@@ -28,10 +28,19 @@ declare global {
     weblink: string;
     platforms: string[];
   }
-  
+
   interface Category extends Identifiable {
     name: string;
     rules: string;
+  }
+
+  interface Pageable<T> {
+    data: T[];
+    pagination?: {
+      size: number;
+      max: number;
+      links?: { rel: string; uri: string }[];
+    };
   }
 }
 
