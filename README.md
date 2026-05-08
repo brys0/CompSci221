@@ -22,7 +22,7 @@ A repository to store Comp Sci 221 Database Project, a sample speedrunning datab
 - Category (any %, 100%, etc…)
 
 ## Loading Data
-To load the data from speedrun.com api into database please check the `seeding/seeds` for already generated seeds, alternatively load the seeds yourself via bun run `./seeding/index.ts` this will take some time.
+Please look at releases to download cached data, or the seeds, they could not be contributed directly anymore due to repo size limits. Alternatively, load/download the seeds yourself via bun run `./seeding/index.ts` this will take some time.
 
 ## Milestone 1
 
